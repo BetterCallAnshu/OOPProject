@@ -1,0 +1,5 @@
+Found 1 duplicate group(s); 79 B could be reclaimed.
+
+Group 1 - 2 copies, 79 B each:
+  D:\OOP project\.\scan-report.txt
+  D:\OOP project\.\src\duplicate-report.txt
